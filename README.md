@@ -16,8 +16,8 @@ Sockets Links.
 ### CLIENT :
 ```
 
-# NAME : Aliya Sheema
-# REG NO : 212223230011
+# NAME : ROGITH GANESH.R
+# REG NO : 212223100046
 
 import socket 
 s=socket.socket() 
@@ -33,8 +33,8 @@ while True:
 
 ```
 
-# NAME : Aliya Sheema
-# REG NO : 212223230011
+# NAME : ROGITH GANESH.R
+# REG NO : 212223100046
 
 import socket
 s=socket.socket()
